@@ -1,0 +1,15 @@
+For Uber_Program_Manager_5 the inputs given were
+
+Enter the company name: Uber
+Enter the job role: Program Manager
+Enter the years of experience: 5
+Enter the major skills (comma-separated): Project Management, AI, ML, GenAI, Leading team of 3-5, Reporting, PowerBI
+Enter the Location of hire: Bengaluru
+
+For Amazon_SDE_2_4 the inputs given were
+
+Enter the company name: Amazon  
+Enter the job role: SDE 2
+Enter the years of experience: 4
+Enter the major skills (comma-separated): Java, Debugging, CICD, SDKs    
+Enter the Location of hire: Hyderabad
